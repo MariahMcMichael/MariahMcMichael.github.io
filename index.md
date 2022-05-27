@@ -12,7 +12,7 @@ Hello my name is Mariah McMichael and I am a senior computer science major at Mo
 
 ## About My Mentor
 
-My mentor is Dr. Monica Anderson and she is a professor in computer science department at the University of Alabama. Her area of research is in robotics. 
+My mentor is Dr. Monica Anderson and she is a professor in computer science department at the University of Alabama. Dr. Anderson’s research interests include robotics.
 
 ## About My Project
 
