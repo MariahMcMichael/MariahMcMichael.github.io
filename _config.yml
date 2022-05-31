@@ -17,10 +17,9 @@ avatar: https://MariahMcMichael.github.io/images/McMichael_Headshot.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: mariah.mcmichael@outlook.com
-  instagram: https://www.instagram.com/ryam_5/?hl=en
-  flickr:
+  linkedin: linkedin.com/in/mariah-mcmichael
+  github: github.com/MariahMcMichael.github.io
   rss: # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
