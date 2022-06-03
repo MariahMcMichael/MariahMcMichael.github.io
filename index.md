@@ -10,7 +10,7 @@ title: Summer 2020 DREU Project Site
 
 ![mcmichaelhheadshot](/images/mcmichaelheadshot.jpg)
 
-Hello my name is Mariah McMichael. Currently, I am a senior at Morgan State University. I plan to graduate with a bachelor degree in computer science in December 2023.
+Hello my name is Mariah McMichael. Currently, I am a senior at Morgan State University. I plan to graduate in December 2023 with a bachelor degree in computer science.
 
 ## About My Mentor
 
