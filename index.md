@@ -22,7 +22,9 @@ Dr. Monica Anderson is a associate professor in the College of Engineering at th
 
 The goal is to create a mechanism that disseminates information on local resources for caregivers of people with Alzheimer's or other dementias. To accomplish this goal, a chatbot will be implemented. It will require a backend database of resources that are sourced in a variety of ways that must be maintained. The resources are geographic so the backend database will require GIS services. 
 
-Click on project summary to learn more [Project Summary](/images/uaprojectsummary.png)
+Click on project summary to learn more 
+
+[Project Summary](/images/uaprojectsummary.png)
 
 [My Final Report](files/finalreport.pdf)
 
