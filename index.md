@@ -10,7 +10,7 @@ title: Summer 2020 DREU Project Site
 
 ![mcmichaelhheadshot](/images/mcmichaelheadshot.jpg)
 
-Hello my name is Mariah McMichael. Currently, I am a senior at Morgan State University. I plan to graduate in December 2023 with a bachelor degree in computer science.
+Hello my name is Mariah McMichael. Currently, I am a senior at Morgan State University. I plan to graduate in December 2023 with a bachelor of science in computer science.
 
 ## About My Mentor
 
@@ -20,7 +20,7 @@ Dr. Monica Anderson is a associate professor in the College of Engineering at th
 
 ## About My Project
 
-The goal is to create a mechanism that disseminates information on local resources for caregivers of people with Alzheimer's or other dementias. To accomplish this goal, a chatbot will be implemented. It will require a backend database of resources that are sourced in a variety of ways that must be maintained. The resources are geographic so the backend database will require GIS services. 
+The goal is to create a mechanism to disseminate information of local resources for caregivers of people with Alzheimer's or other dementias. To accomplish this goal, a chatbot will be implemented. It will require a backend database of resources that are sourced in a variety of ways that must be maintained. The resources are location specific so the backend database will require geographic information system (GIS) services. 
 
 Click on project summary to learn more 
 
