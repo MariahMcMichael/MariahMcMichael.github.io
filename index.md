@@ -26,7 +26,7 @@ Click on project summary to learn more
 
 [Project Summary](/images/uaprojectsummary.png)
 
-[My Final Report](files/Mariah McMichael DREU Final Report.pdf)
+[My Final Report](files/MariahMcMichaelDREUFinalReport.pdf)
 
 ## My Blog
 
